@@ -27,7 +27,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "eva-icons": "^1.1.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "random-name-generator": "^1.1.1",
     "random-username-generator": "^1.0.4",
     "rxjs": "~6.5.4",
