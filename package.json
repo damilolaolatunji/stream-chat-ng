@@ -31,7 +31,7 @@
     "random-name-generator": "^1.1.1",
     "random-username-generator": "^1.0.4",
     "rxjs": "~6.5.4",
-    "stream-chat": "^1.8.0",
+    "stream-chat": "^8.2.1",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
